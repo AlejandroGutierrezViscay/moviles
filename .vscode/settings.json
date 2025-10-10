@@ -1,0 +1,14 @@
+{
+    "dart.flutterSdkPath": "C:\\Users\\Alejandro Gutierrez\\dev\\flutter\\flutter",
+    "dart.debugExtensionBackendProtocol": "ws",
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "dart.previewFlutterUiGuides": true,
+    "dart.flutterHotReloadOnSave": "manual",
+    "dart.flutterCreateAndroidLanguage": "kotlin",
+    "dart.flutterCreateIOSLanguage": "swift",
+    "dart.env": {
+        "GRADLE_USER_HOME": "C:\\gradle-temp",
+        "ANDROID_USER_HOME": "C:\\android-temp",
+        "GRADLE_OPTS": "-Dorg.gradle.daemon=true -Dorg.gradle.parallel=true"
+    }
+}
