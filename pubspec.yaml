@@ -1,5 +1,5 @@
-name: moviles
-description: "A new Flutter project."
+name: taller_firebase_universidades
+description: "Taller de Flutter con Firebase para gestión de universidades."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -34,8 +34,14 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-  go_router: ^16.2.4
-  http: ^1.1.0
+  go_router: ^16.2.1
+  flutter_dotenv: ^6.0.0
+  http: ^1.5.0
+  image_picker: ^1.2.0
+  shared_preferences: ^2.5.3
+  flutter_secure_storage: ^9.2.4
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
 
 dev_dependencies:
   flutter_test:
