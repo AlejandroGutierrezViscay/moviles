@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:parqueadero_2025_g2/routes/app_router.dart';
+import 'routes/app_router.dart';
 import 'themes/app_theme.dart'; // Importa el tema
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';

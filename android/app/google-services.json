@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433837086385",
+    "project_id": "taller-firebase-universi-78464",
+    "storage_bucket": "taller-firebase-universi-78464.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433837086385:android:e06fba95037a3f3a18b490",
+        "android_client_info": {
+          "package_name": "com.example.parqueadero_2025_g2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7ikc6nLJFFFDCaifMg4U_1chaX5WGuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
